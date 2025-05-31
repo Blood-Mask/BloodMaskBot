@@ -1,0 +1,1723 @@
+{
+ "MAIN": "bloodmaska",
+ "albums": [
+  {
+   "name": "DARK THOUGHTS",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 133,
+     "file_name": "AM I DEAD.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "AM I DEAD",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGf2g5mg4-vXiPJfJwcaNDlOxTMpv8AAKubAAC0iTRSdf44SI9BehfNgQ",
+     "file_unique_id": "AgADrmwAAtIk0Uk",
+     "file_size": 5333128
+    },
+    {
+     "duration": 372,
+     "file_name": "Atlantica.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Atlantica",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGgGg5mg7S1mW7ayWVe1_S3pnAHwqJAAKvbAAC0iTRSV2OWFalnICdNgQ",
+     "file_unique_id": "AgADr2wAAtIk0Uk",
+     "file_size": 14896034
+    },
+    {
+     "duration": 211,
+     "file_name": "Far away.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Far Away",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGgWg5mg4aS1IHm0WuC2HNNqvfYY7dAAKwbAAC0iTRSS7Gx7fZeNFJNgQ",
+     "file_unique_id": "AgADsGwAAtIk0Uk",
+     "file_size": 8466777
+    },
+    {
+     "duration": 188,
+     "file_name": "GO!.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "GO!",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGgmg5mg7Hr3gROlDnlttNcNgZ7foxAAKzbAAC0iTRScbGQvL7vnOpNgQ",
+     "file_unique_id": "AgADs2wAAtIk0Uk",
+     "file_size": 7530495
+    },
+    {
+     "duration": 134,
+     "file_name": "Hallucinating.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Hallucinating",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGg2g5mg7yVbMRGsYwGg8JW_U7yELxAAKxbAAC0iTRSdH37jJA5x0GNgQ",
+     "file_unique_id": "AgADsWwAAtIk0Uk",
+     "file_size": 5389553
+    },
+    {
+     "duration": 87,
+     "file_name": "HUNTER GROTTO.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "HUNTER GROTTO",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGhGg5mg7DAAG4KTCFhHkrcQz6gpewvwACsmwAAtIk0Ul7M1Qu0OCRHjYE",
+     "file_unique_id": "AgADsmwAAtIk0Uk",
+     "file_size": 3487784
+    },
+    {
+     "duration": 182,
+     "file_name": "I did everything I could.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "I did everything I could",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGhWg5mg4r5h5kh6jHxjRGkKucAwUKAAK1bAAC0iTRSVbDFKE80hWGNgQ",
+     "file_unique_id": "AgADtWwAAtIk0Uk",
+     "file_size": 7311066
+    },
+    {
+     "duration": 151,
+     "file_name": "I'm waiting for you.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "I'm waiting for you",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGhmg5mg5fg8mEskE5b7zbOMPpBuHeAAK0bAAC0iTRSZlGs13X4e_rNgQ",
+     "file_unique_id": "AgADtGwAAtIk0Uk",
+     "file_size": 6063458
+    },
+    {
+     "duration": 152,
+     "file_name": "NA NEBO.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "NA NEBO",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGh2g5mg4cE7NvnOGDuYs9ysoagwlUAAIwbgACcZrRSfMG64VSTPYJNgQ",
+     "file_unique_id": "AgADMG4AAnGa0Uk",
+     "file_size": 6105308
+    },
+    {
+     "duration": 158,
+     "file_name": "OBRECHEN.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "OBRECHEN",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGiGg5mg7DShBXGQUJvXIxIYeMW57MAAK2bAAC0iTRSZoc7Gv3yHi2NgQ",
+     "file_unique_id": "AgADtmwAAtIk0Uk",
+     "file_size": 6358173
+    },
+    {
+     "duration": 153,
+     "file_name": "Philosopher.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Philosopher",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGiWg5mg5NGasO2cuECBUc5qTPFrP3AAK3bAAC0iTRSed-gWLIrYLoNgQ",
+     "file_unique_id": "AgADt2wAAtIk0Uk",
+     "file_size": 6157553
+    },
+    {
+     "duration": 166,
+     "file_name": "Rain takes my soul.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Rain takes my soul",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGimg5mg5rY0AVhCQU8R1GSwJ76TV8AAK4bAAC0iTRSRW9_0AGTjQkNgQ",
+     "file_unique_id": "AgADuGwAAtIk0Uk",
+     "file_size": 6649646
+    },
+    {
+     "duration": 178,
+     "file_name": "TRUST.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "TRUST",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGi2g5mg7pQP03V6Ktt-nGsHLaisUgAAK5bAAC0iTRSTD2akcd5jbONgQ",
+     "file_unique_id": "AgADuWwAAtIk0Uk",
+     "file_size": 7134532
+    },
+    {
+     "duration": 143,
+     "file_name": "whydoyoutrustme.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "whydoyoutrustme",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGjGg5mg4M1AnKcWt0KfZBQO4Pnw6HAAK6bAAC0iTRST_oCcPdMI2HNgQ",
+     "file_unique_id": "AgADumwAAtIk0Uk",
+     "file_size": 5752132
+    },
+    {
+     "duration": 152,
+     "file_name": "you left me.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "you left me",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIGjWg5mg6tTmpnLI7Zk71Se9e6VRezAAK7bAAC0iTRSTJoQNK_gA48NgQ",
+     "file_unique_id": "AgADu2wAAtIk0Uk",
+     "file_size": 6094805
+    }
+   ]
+  },
+  {
+   "name": "Greatness",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 170,
+     "file_name": "Ages.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHcGg54QvY-B6ajqdvzx9bGW8Z86XjAAJZcgAC0iTRSYkwaLtXRjhoNgQ",
+     "file_unique_id": "AgADWXIAAtIk0Uk",
+     "file_size": 6832630
+    },
+    {
+     "duration": 124,
+     "file_name": "All 'bout my Hustle!.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHcWg54QujT9kaIkpkNnBAaIWKZg60AAJacgAC0iTRSSE6-in7Vi1MNgQ",
+     "file_unique_id": "AgADWnIAAtIk0Uk",
+     "file_size": 4988258
+    },
+    {
+     "duration": 249,
+     "file_name": "Cherry Plum.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHcmg54QuR1rBdWPwdZiYXNySCRdb4AAJbcgAC0iTRSR8XhUqqDAABXzYE",
+     "file_unique_id": "AgADW3IAAtIk0Uk",
+     "file_size": 9993319
+    },
+    {
+     "duration": 170,
+     "file_name": "Cudle.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHc2g54QvI8l9G8JBkwc0pa7a-Xt11AAJccgAC0iTRSTptfiHEZlq_NgQ",
+     "file_unique_id": "AgADXHIAAtIk0Uk",
+     "file_size": 6829496
+    },
+    {
+     "duration": 179,
+     "file_name": "Epithet.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHdGg54QsfoudIS486IsBV5uMYx8ZdAAJdcgAC0iTRSSjhTrF9AZe2NgQ",
+     "file_unique_id": "AgADXXIAAtIk0Uk",
+     "file_size": 7181499
+    },
+    {
+     "duration": 129,
+     "file_name": "Field.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHdWg54QuZ9Qh7G1Uupmdm3nN5eaBdAAJecgAC0iTRSTtNTk4uP8xfNgQ",
+     "file_unique_id": "AgADXnIAAtIk0Uk",
+     "file_size": 5195148
+    },
+    {
+     "duration": 189,
+     "file_name": "Forever young, right.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHdmg54QvrstTLvdk_IfbgPEBZEEsCAAJicgAC0iTRSchaZWc-IYAYNgQ",
+     "file_unique_id": "AgADYnIAAtIk0Uk",
+     "file_size": 7573463
+    },
+    {
+     "duration": 120,
+     "file_name": "Gentle.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHd2g54QuWT-8e1zf5umoDfrhSB0cSAAJgcgAC0iTRSVQ0CuXJToe0NgQ",
+     "file_unique_id": "AgADYHIAAtIk0Uk",
+     "file_size": 4808536
+    },
+    {
+     "duration": 125,
+     "file_name": "Hi.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHeGg54QtTpBZHUtOLwWdZXs_CeY5mAAJhcgAC0iTRSfB1cjSLBfs6NgQ",
+     "file_unique_id": "AgADYXIAAtIk0Uk",
+     "file_size": 5030054
+    },
+    {
+     "duration": 154,
+     "file_name": "I Shout On The Whole World.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHeWg54Qv-nCK4AZxehM9__EELes-nAAJjcgAC0iTRSauwOVlv6Ri4NgQ",
+     "file_unique_id": "AgADY3IAAtIk0Uk",
+     "file_size": 6195115
+    },
+    {
+     "duration": 180,
+     "file_name": "Love you, goodnight.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHemg54Q74RtZETFHHq2TvhBgBY2EMAAJ6cgACcZrRSZoSu-FLnyJCNgQ",
+     "file_unique_id": "AgADenIAAnGa0Uk",
+     "file_size": 7202524
+    },
+    {
+     "duration": 163,
+     "file_name": "Night Lights.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHe2g54Q4UbyU8cDx5z3A6TaXRecsKAAJkcgAC0iTRSXmAKB19e-z6NgQ",
+     "file_unique_id": "AgADZHIAAtIk0Uk",
+     "file_size": 6535752
+    },
+    {
+     "duration": 137,
+     "file_name": "Onryo.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHfGg54Q5pE7_zestQWlBJzcHUNoBvAAI7cwACv8fRSW0dO37DfiAWNgQ",
+     "file_unique_id": "AgADO3MAAr_H0Uk",
+     "file_size": 5488892
+    },
+    {
+     "duration": 209,
+     "file_name": "Sakura (with SHADOW).mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHfWg54Q7V98dC-DXvhKnfbi-JqDEuAAJlcgAC0iTRSXSvRvzVPudiNgQ",
+     "file_unique_id": "AgADZXIAAtIk0Uk",
+     "file_size": 8392536
+    },
+    {
+     "duration": 170,
+     "file_name": "Soul.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHfmg54Q4oWgxta_OxLgOFudK1FSCwAAJocgAC0iTRSTGFMr31nC7yNgQ",
+     "file_unique_id": "AgADaHIAAtIk0Uk",
+     "file_size": 6842952
+    },
+    {
+     "duration": 139,
+     "file_name": "Summer Wave.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHf2g54Q4QjD19QUtoGSySoNTO55BAAAJmcgAC0iTRScroKIB1u8P3NgQ",
+     "file_unique_id": "AgADZnIAAtIk0Uk",
+     "file_size": 5577580
+    },
+    {
+     "duration": 250,
+     "file_name": "Tancevat.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHgGg54Q6ffjcgi825i4QI8H1BDqVdAAJpcgAC0iTRSUJ4yQftkKoONgQ",
+     "file_unique_id": "AgADaXIAAtIk0Uk",
+     "file_size": 10035115
+    },
+    {
+     "duration": 147,
+     "file_name": "The End.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHgWg54Q7J-T6ydFJ-z09XG7_bDAclAAJncgAC0iTRSYjZc_dwufYfNgQ",
+     "file_unique_id": "AgADZ3IAAtIk0Uk",
+     "file_size": 5916255
+    }
+   ]
+  },
+  {
+   "name": "Meredian",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 85,
+     "file_name": "and I thought so....mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHu2g56JY2goRxpOB4k3qG31grC5LuAAKZcwAC0iTRSeOzSg5xMBXlNgQ",
+     "file_unique_id": "AgADmXMAAtIk0Uk",
+     "file_size": 3420007
+    },
+    {
+     "duration": 138,
+     "file_name": "Cold 2.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHvGg56JZhO-BqY7-ozqMqMz8G8zn-AAKacwAC0iTRSVUaYrFaQSeaNgQ",
+     "file_unique_id": "AgADmnMAAtIk0Uk",
+     "file_size": 5555778
+    },
+    {
+     "duration": 246,
+     "file_name": "Darkness.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHvWg56JYb17tJ76Q6D5etARiVmaT3AAKbcwAC0iTRSfFVatyz6u0_NgQ",
+     "file_unique_id": "AgADm3MAAtIk0Uk",
+     "file_size": 9864937
+    },
+    {
+     "duration": 136,
+     "file_name": "Echo.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHvmg56JZxoKQGi-49FoSaEPqWdaAjAAKccwAC0iTRSYAWUkazid4qNgQ",
+     "file_unique_id": "AgADnHMAAtIk0Uk",
+     "file_size": 5441884
+    },
+    {
+     "duration": 149,
+     "file_name": "encased in stone.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHv2g56JaxmavDiyzZ8XBjKY03ORkRAAKdcwAC0iTRSWyxWXz_qpPiNgQ",
+     "file_unique_id": "AgADnXMAAtIk0Uk",
+     "file_size": 5984186
+    },
+    {
+     "duration": 139,
+     "file_name": "feeling you don't see.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHwGg56JarVaIOrNHlZItTdDSyVkzPAAKecwAC0iTRSVpMJ0PDAvs7NgQ",
+     "file_unique_id": "AgADnnMAAtIk0Uk",
+     "file_size": 5578766
+    },
+    {
+     "duration": 190,
+     "file_name": "fence.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHwWg56JZ4OhcYAAEi3sQRfIf_feH4eQACn3MAAtIk0Unbwh-3qApRrjYE",
+     "file_unique_id": "AgADn3MAAtIk0Uk",
+     "file_size": 7614227
+    },
+    {
+     "duration": 174,
+     "file_name": "frozen.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHwmg56JZffOD0wPNzqeb3-t1WTJ_mAAKhcwAC0iTRSUdlZLGueCmgNgQ",
+     "file_unique_id": "AgADoXMAAtIk0Uk",
+     "file_size": 6962211
+    },
+    {
+     "duration": 162,
+     "file_name": "GET OUT.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHw2g56JbiwfFhMtrvXqR8pxP5gNncAAKgcwAC0iTRSZ9DXfkFOo3TNgQ",
+     "file_unique_id": "AgADoHMAAtIk0Uk",
+     "file_size": 6512905
+    },
+    {
+     "duration": 216,
+     "file_name": "how to disappear.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHxGg56JaFA_SS7RCvCotqHZvLeF28AAKicwAC0iTRSfmUyMKblMpbNgQ",
+     "file_unique_id": "AgADonMAAtIk0Uk",
+     "file_size": 8644496
+    },
+    {
+     "duration": 146,
+     "file_name": "loss.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHxWg56JfSdN6MFg-KNJPj0Bj9_KO4AAKjcwAC0iTRSd6w1lqMr0_jNgQ",
+     "file_unique_id": "AgADo3MAAtIk0Uk",
+     "file_size": 5858798
+    },
+    {
+     "duration": 154,
+     "file_name": "Off the road.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHxmg56JeH4H5BU1nMiwnz2cBIiG7pAAKkcwAC0iTRScQUiVEWN_92NgQ",
+     "file_unique_id": "AgADpHMAAtIk0Uk",
+     "file_size": 6181672
+    },
+    {
+     "duration": 247,
+     "file_name": "Мрія.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHx2g56JdHPMMSQpwObMSVF9hSyrMnAAKlcwAC0iTRSS4J-Fwku0EgNgQ",
+     "file_unique_id": "AgADpXMAAtIk0Uk",
+     "file_size": 9901509
+    },
+    {
+     "duration": 144,
+     "file_name": "Небуття.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHyGg56JfIo32ylGFWgvn-en6Y_8LXAAKncwAC0iTRSUky2Q5fbGIDNgQ",
+     "file_unique_id": "AgADp3MAAtIk0Uk",
+     "file_size": 5771027
+    },
+    {
+     "duration": 114,
+     "file_name": "Подумки.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIHyWg56Je4YwtX805hZZFPossT23MAA6hzAALSJNFJ7c23tLpp1SA2BA",
+     "file_unique_id": "AgADqHMAAtIk0Uk",
+     "file_size": 4579843
+    }
+   ]
+  },
+  {
+   "name": "Mia",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 190,
+     "file_name": "1 Душа.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Душа",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIAmg57AJdOpWsWLkIEj-OZdc7n-1kAALmcwAC0iTRST_PuL1D-LtSNgQ",
+     "file_unique_id": "AgAD5nMAAtIk0Uk",
+     "file_size": 7605805
+    },
+    {
+     "duration": 188,
+     "file_name": "2 Присвята.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Присвята",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIA2g57ALsDK9nGIBZfUxEfjtudzpcAALncwAC0iTRSTYd-0ktCxMUNgQ",
+     "file_unique_id": "AgAD53MAAtIk0Uk",
+     "file_size": 7528483
+    },
+    {
+     "duration": 164,
+     "file_name": "3 Образа.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Образа",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIBGg57AIqRqoo84yv1vJ44mzBv340AALocwAC0iTRSclj4qGFfD6_NgQ",
+     "file_unique_id": "AgAD6HMAAtIk0Uk",
+     "file_size": 6585985
+    },
+    {
+     "duration": 163,
+     "file_name": "4 Стираєш.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Стираєш",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIBWg57AK0-CX00AG4cGtr-o5LxQ3-AALpcwAC0iTRSSCQ6e83Ksc-NgQ",
+     "file_unique_id": "AgAD6XMAAtIk0Uk",
+     "file_size": 6535830
+    },
+    {
+     "duration": 112,
+     "file_name": "5 Тривога.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Тривога",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIBmg57AJHtS4uRPaqbAABKu-AB9PDwAAC6nMAAtIk0UkLPiCLVbQx6zYE",
+     "file_unique_id": "AgAD6nMAAtIk0Uk",
+     "file_size": 4485740
+    },
+    {
+     "duration": 160,
+     "file_name": "6 Холодна осінь.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Холодна осінь",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIB2g57AImiFnTzJ1qmhKFFA1KyUmQAALrcwAC0iTRSX9oKJvMMrjbNgQ",
+     "file_unique_id": "AgAD63MAAtIk0Uk",
+     "file_size": 6411487
+    },
+    {
+     "duration": 226,
+     "file_name": "7 Болить воно.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Болить воно",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIICGg57AKfktgVOoYvQIOLRitmgYgQAALscwAC0iTRSXj8-xQzFGxBNgQ",
+     "file_unique_id": "AgAD7HMAAtIk0Uk",
+     "file_size": 9079111
+    },
+    {
+     "duration": 217,
+     "file_name": "8 Очі.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Очі",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIICWg57AKvjOIkO6XAOEhEZCFavLxGAALtcwAC0iTRSZ0jcNNEdAQ1NgQ",
+     "file_unique_id": "AgAD7XMAAtIk0Uk",
+     "file_size": 8712352
+    },
+    {
+     "duration": 126,
+     "file_name": "9 Сон.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Сон",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIICmg57ALFAviYJEXpEwHZk79Zbas3AALucwAC0iTRSVy3J4gIdd3rNgQ",
+     "file_unique_id": "AgAD7nMAAtIk0Uk",
+     "file_size": 5052075
+    },
+    {
+     "duration": 158,
+     "file_name": "10 Усмішка.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Усмішка",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIC2g57AIcO49ugH-_AAGOnsf3Up7UjgAC73MAAtIk0UkpN84DOCxfxzYE",
+     "file_unique_id": "AgAD73MAAtIk0Uk",
+     "file_size": 6343569
+    }
+   ]
+  },
+  {
+   "name": "Music is my emotions",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 145,
+     "file_name": "because i hate myself.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIFGg58AnusqTWXDqqKlmxAwyKFq-7AAIddAAC0iTRSStK9QHFxU5YNgQ",
+     "file_unique_id": "AgADHXQAAtIk0Uk",
+     "file_size": 5837914
+    },
+    {
+     "duration": 136,
+     "file_name": "deadly sadness.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIFWg58AlR3RWm1UxjYl9NNWGvgz6TAAIedAAC0iTRSbpRSSK6pf0VNgQ",
+     "file_unique_id": "AgADHnQAAtIk0Uk",
+     "file_size": 5446078
+    },
+    {
+     "duration": 156,
+     "file_name": "heart attack.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIFmg58AlfwBvXp6oiw_LCBWW-7xkiAAIfdAAC0iTRSU-HbO5IW0GBNgQ",
+     "file_unique_id": "AgADH3QAAtIk0Uk",
+     "file_size": 6249604
+    },
+    {
+     "duration": 112,
+     "file_name": "i'm not monster but i hate myself.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIF2g58Al5BgABnwgdRE2tMznF_RMQvAACIHQAAtIk0UncuIqjWcJu1jYE",
+     "file_unique_id": "AgADIHQAAtIk0Uk",
+     "file_size": 4511939
+    },
+    {
+     "duration": 172,
+     "file_name": "last conversation.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIGGg58AmtbI_763_-tDGqaLYnLoIdAAIhdAAC0iTRSdyBMSp8QNtXNgQ",
+     "file_unique_id": "AgADIXQAAtIk0Uk",
+     "file_size": 6918339
+    },
+    {
+     "duration": 213,
+     "file_name": "morgue sounds.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIGWg58AlbrlrLPHH8L8V3JEofrHfmAAIidAAC0iTRSZFJgQ-Y9CTENgQ",
+     "file_unique_id": "AgADInQAAtIk0Uk",
+     "file_size": 8546276
+    },
+    {
+     "duration": 120,
+     "file_name": "why.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIGmg58AnvCHVqFrbPzp-e6Bv2BNg7AAIjdAAC0iTRSUXFEwABivy-cjYE",
+     "file_unique_id": "AgADI3QAAtIk0Uk",
+     "file_size": 4805555
+    },
+    {
+     "duration": 141,
+     "file_name": "Wind.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIG2g58Alwrn-6JZg_hGgrQhnVNB7VAAIkdAAC0iTRSWh1NOfmN5gHNgQ",
+     "file_unique_id": "AgADJHQAAtIk0Uk",
+     "file_size": 5641474
+    }
+   ]
+  },
+  {
+   "name": "Music is my emotions 2",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 211,
+     "file_name": "BREAK ME.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIILGg58D_yK-xIwBmQl1gOL1w9CNmYAAIodAAC0iTRSd1owjiZsXlwNgQ",
+     "file_unique_id": "AgADKHQAAtIk0Uk",
+     "file_size": 8458492
+    },
+    {
+     "duration": 210,
+     "file_name": "I HATE MYSELF LIKE ALWAYS.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIILWg58D_MS5iWAjGrL5du4MLvD9oiAAIpdAAC0iTRSW39Wv-AjzgJNgQ",
+     "file_unique_id": "AgADKXQAAtIk0Uk",
+     "file_size": 8430279
+    },
+    {
+     "duration": 187,
+     "file_name": "NOBODY LIKES THE RECORDS THAT I PLAY.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIILmg58D9m1Vsmah3pvnUH8vBpWFfIAAIqdAAC0iTRSUEbKbFqHkyENgQ",
+     "file_unique_id": "AgADKnQAAtIk0Uk",
+     "file_size": 7495096
+    },
+    {
+     "duration": 184,
+     "file_name": "RUN.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIL2g58D-afgKVcfk9iqFYOXgMxpE7AAIrdAAC0iTRSV0FUsfH02b1NgQ",
+     "file_unique_id": "AgADK3QAAtIk0Uk",
+     "file_size": 7365528
+    },
+    {
+     "duration": 220,
+     "file_name": "STRILAY.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIMGg58D_KzXf7olke7oOW78gqU_tHAAIsdAAC0iTRSYxWxDUd4fgbNgQ",
+     "file_unique_id": "AgADLHQAAtIk0Uk",
+     "file_size": 8834655
+    },
+    {
+     "duration": 189,
+     "file_name": "TRYVOGA.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIMWg58D_X89LP0ul6bqsoSohcoMKsAAItdAAC0iTRSR91HuhY9OfeNgQ",
+     "file_unique_id": "AgADLXQAAtIk0Uk",
+     "file_size": 7593316
+    },
+    {
+     "duration": 223,
+     "file_name": "UBIY MENE, UBIY.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIMmg58D9uAaOyEDecYfpox_A1vYLIAAIudAAC0iTRScgwEF6T1NG4NgQ",
+     "file_unique_id": "AgADLnQAAtIk0Uk",
+     "file_size": 8947504
+    }
+   ]
+  },
+  {
+   "name": "SINISTER BEATDOWN",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 201,
+     "file_name": "DEAD EYES.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIQWg58Km7JOCIvHo1bLZk6OxlrtjlAAIxdAAC0iTRSc82sYKwxj-dNgQ",
+     "file_unique_id": "AgADMXQAAtIk0Uk",
+     "file_size": 8043680
+    },
+    {
+     "duration": 146,
+     "file_name": "PROJECT_DEATH.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIQmg58Km3KfyQUhqo9DyJ7A9PYdhRAAIydAAC0iTRSVZ0-sku23wPNgQ",
+     "file_unique_id": "AgADMnQAAtIk0Uk",
+     "file_size": 5860888
+    },
+    {
+     "duration": 179,
+     "file_name": "RE-RUN.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIQ2g58KmWVcSngB33dbb-mOqZe6leAAIzdAAC0iTRSWnmPLYrQNgPNgQ",
+     "file_unique_id": "AgADM3QAAtIk0Uk",
+     "file_size": 7165966
+    },
+    {
+     "duration": 160,
+     "file_name": "RESTRICT.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIRGg58KmaD0gBeQ5qPc4huSxa0mD-AAI1dAAC0iTRSf7FYHQQ6iSjNgQ",
+     "file_unique_id": "AgADNXQAAtIk0Uk",
+     "file_size": 6413639
+    },
+    {
+     "duration": 203,
+     "file_name": "RUSH.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIRWg58Knxu0EQYVSSQ3FSCOgpHAk_AAI2dAAC0iTRSVvmHzjfDxuhNgQ",
+     "file_unique_id": "AgADNnQAAtIk0Uk",
+     "file_size": 8125182
+    },
+    {
+     "duration": 145,
+     "file_name": "TON-618.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIRmg58KmfHYCN51XUQg_VTqWFBOliAAKicwACcZrRSaX61Q5jyfaRNgQ",
+     "file_unique_id": "AgADonMAAnGa0Uk",
+     "file_size": 5826407
+    }
+   ]
+  },
+  {
+   "name": "So to whom it is",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 121,
+     "file_name": "AND IT IS PROBABLY GONE!.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIS2g58NqP2tb10z0TU4Qs77-l68oxAAI8dAAC0iTRSSmjoJzVekfwNgQ",
+     "file_unique_id": "AgADPHQAAtIk0Uk",
+     "file_size": 4866145
+    },
+    {
+     "duration": 208,
+     "file_name": "BARELY ALIVE.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIITGg58NqceA5ciiHBz1YOFtMK2YG_AAI9dAAC0iTRSQMTc4QbtCT4NgQ",
+     "file_unique_id": "AgADPXQAAtIk0Uk",
+     "file_size": 8344611
+    },
+    {
+     "duration": 173,
+     "file_name": "BEZDNA.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIITWg58NpOOLvUJlYmzvRirc2hhn2XAAI-dAAC0iTRSbLjWaR1WaDBNgQ",
+     "file_unique_id": "AgADPnQAAtIk0Uk",
+     "file_size": 6923549
+    },
+    {
+     "duration": 240,
+     "file_name": "Kletka.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIITmg58NoqzD753tCT244hvbGMuHNvAAKjcwACcZrRSZFs3S1GlVN_NgQ",
+     "file_unique_id": "AgADo3MAAnGa0Uk",
+     "file_size": 9601623
+    },
+    {
+     "duration": 116,
+     "file_name": "Nu i navishcho.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIT2g58NoS3Uf_xwGwKg4CMUJ9ILMxAAI_dAAC0iTRScFRciZcfcRDNgQ",
+     "file_unique_id": "AgADP3QAAtIk0Uk",
+     "file_size": 4668660
+    },
+    {
+     "duration": 114,
+     "file_name": "OHWHATISTHAT.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIUGg58NrxgJltiJ4RmW2WyosYmYGOAAJAdAAC0iTRSdERg_xL8UAeNgQ",
+     "file_unique_id": "AgADQHQAAtIk0Uk",
+     "file_size": 4579843
+    },
+    {
+     "duration": 192,
+     "file_name": "PROSTI MENYA!!!!!!!!!.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIUWg58Np9vD8WVsV2ZJnrqflbej-cAAJBdAAC0iTRSVKe8YRkE8uANgQ",
+     "file_unique_id": "AgADQXQAAtIk0Uk",
+     "file_size": 7689460
+    },
+    {
+     "duration": 144,
+     "file_name": "Rained forever.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIUmg58Nr6Dn7Q9UXfuA-WVLa99yv6AAJCdAAC0iTRSe9ZNL3BgTyiNgQ",
+     "file_unique_id": "AgADQnQAAtIk0Uk",
+     "file_size": 5766847
+    },
+    {
+     "duration": 131,
+     "file_name": "SO IT WAS FUN, WASN'T IT.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIU2g58Npssrowrxv_ULLkbm1nwfcKAAJDdAAC0iTRSSUmfunmpm9zNgQ",
+     "file_unique_id": "AgADQ3QAAtIk0Uk",
+     "file_size": 5270521
+    },
+    {
+     "duration": 166,
+     "file_name": "So you happy.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIVGg58Nos1O4Sa_YZUNyIgVa2fh2GAAJEdAAC0iTRSQgBDvMEP0ShNgQ",
+     "file_unique_id": "AgADRHQAAtIk0Uk",
+     "file_size": 6661280
+    },
+    {
+     "duration": 177,
+     "file_name": "VICHNA TYSHA.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIVWg58NwnkusbLwriDu5BK22LyTALAAJGdAAC0iTRSSUBAomwYOB_NgQ",
+     "file_unique_id": "AgADRnQAAtIk0Uk",
+     "file_size": 7095958
+    },
+    {
+     "duration": 276,
+     "file_name": "Volny.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIVmg58NwjUZl8ojB6sIJmvvZFI90nAAJHdAAC0iTRSQ0Nuiz-0OfpNgQ",
+     "file_unique_id": "AgADR3QAAtIk0Uk",
+     "file_size": 11055076
+    },
+    {
+     "duration": 153,
+     "file_name": "ZABERY MENE, PITMA 2.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIV2g58NwVjkVvDbzpM6XgM4HK5dV6AAJIdAAC0iTRSZsIhMBYsaEhNgQ",
+     "file_unique_id": "AgADSHQAAtIk0Uk",
+     "file_size": 6155549
+    },
+    {
+     "duration": 144,
+     "file_name": "ZABERY MENE, PITMA.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIWGg58NxET2oAAURTtsdSR0yYnFNUfgACSXQAAtIk0UkOCiGkz33y3jYE",
+     "file_unique_id": "AgADSXQAAtIk0Uk",
+     "file_size": 5766847
+    }
+   ]
+  },
+  {
+   "name": "Winds",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 131,
+     "file_name": "Bones.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIfWg58VmDEyxXkk70rwQq3VBcCfWtAAJadAAC0iTRScKvMTIYWJY9NgQ",
+     "file_unique_id": "AgADWnQAAtIk0Uk",
+     "file_size": 5272611
+    },
+    {
+     "duration": 94,
+     "file_name": "DEADLOCK.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIfmg58VlO1S3XntdF5jsgQgXBObwGAAJbdAAC0iTRSe7gmxuLwMSCNgQ",
+     "file_unique_id": "AgADW3QAAtIk0Uk",
+     "file_size": 3776317
+    },
+    {
+     "duration": 154,
+     "file_name": "DEHAZE.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIf2g58VloycKtUPYjPyoAAWUOs3wzywACXHQAAtIk0UkWoRb3GZq8vzYE",
+     "file_unique_id": "AgADXHQAAtIk0Uk",
+     "file_size": 6188986
+    },
+    {
+     "duration": 182,
+     "file_name": "dreams.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIgGg58VlmXKDsqLPlX2oyKd4gxLclAAJddAAC0iTRSWmOKTQSxWfINgQ",
+     "file_unique_id": "AgADXXQAAtIk0Uk",
+     "file_size": 7302847
+    },
+    {
+     "duration": 132,
+     "file_name": "dungeon.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIgWg58VlfpSQ7Y3vxBXj23F0gFcfvAAJedAAC0iTRSRFTv4wg1PNcNgQ",
+     "file_unique_id": "AgADXnQAAtIk0Uk",
+     "file_size": 5286194
+    },
+    {
+     "duration": 199,
+     "file_name": "Frost.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIgmg58VmzzHeo6wEM_kUEQGwQ8KftAAJfdAAC0iTRSRalk1QuuJLtNgQ",
+     "file_unique_id": "AgADX3QAAtIk0Uk",
+     "file_size": 7970537
+    },
+    {
+     "duration": 139,
+     "file_name": "LOVE ME(part 2).mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIg2g58VnlXDbgVdoH83QNvhHvxVabAAJgdAAC0iTRSQZDY1Yjf_t-NgQ",
+     "file_unique_id": "AgADYHQAAtIk0Uk",
+     "file_size": 5572496
+    },
+    {
+     "duration": 211,
+     "file_name": "LOVE ME.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIhGg58Vnt3L8HwxgDrWIGPgXq2nnuAAJhdAAC0iTRST4Clumsm6jINgQ",
+     "file_unique_id": "AgADYXQAAtIk0Uk",
+     "file_size": 8453294
+    },
+    {
+     "duration": 140,
+     "file_name": "no strength to live.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIhWg58Vl5sVnwa2BAxxQQ3nvHcPQMAAJjdAAC0iTRSRwNDYt01gemNgQ",
+     "file_unique_id": "AgADY3QAAtIk0Uk",
+     "file_size": 5611158
+    },
+    {
+     "duration": 174,
+     "file_name": "raindrop.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIhmg58VmVU0ZY4Qwu-VPv-TFHvy71AAJkdAAC0iTRSTuLfiTjQ4h_NgQ",
+     "file_unique_id": "AgADZHQAAtIk0Uk",
+     "file_size": 6991468
+    },
+    {
+     "duration": 135,
+     "file_name": "ruined.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIh2g58VviuLQwEcp4g7R-JNBxas9dAAJldAAC0iTRSYlO5ys_RqY5NgQ",
+     "file_unique_id": "AgADZXQAAtIk0Uk",
+     "file_size": 5416807
+    },
+    {
+     "duration": 158,
+     "file_name": "stardust.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIiGg58Vsqr8mxDWvjLufRtqLyTQlnAAJmdAAC0iTRSQX0jGuNHcWgNgQ",
+     "file_unique_id": "AgADZnQAAtIk0Uk",
+     "file_size": 6344676
+    },
+    {
+     "duration": 103,
+     "file_name": "stars.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIiWg58VvGr7Q_Z_sSdOX8xg9crQYrAAJndAAC0iTRSdWs2G0f6rBXNgQ",
+     "file_unique_id": "AgADZ3QAAtIk0Uk",
+     "file_size": 4142031
+    },
+    {
+     "duration": 122,
+     "file_name": "THE WILL!.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIimg58Vu93yV_GilzPRH2jQ1oNGpaAAJodAAC0iTRSTboifP6I28QNgQ",
+     "file_unique_id": "AgADaHQAAtIk0Uk",
+     "file_size": 4897492
+    },
+    {
+     "duration": 144,
+     "file_name": "забери мене, пітьма.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIi2g58VtYlNs5yx62bY276Z91pUmkAAJpdAAC0iTRSWwqwrehkXi5NgQ",
+     "file_unique_id": "AgADaXQAAtIk0Uk",
+     "file_size": 5766847
+    },
+    {
+     "duration": 144,
+     "file_name": "небытие.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIjGg58VvDBeYf43t5Tujatqio1JCJAAJqdAAC0iTRSdEKGXnDW8F5NgQ",
+     "file_unique_id": "AgADanQAAtIk0Uk",
+     "file_size": 5771027
+    },
+    {
+     "duration": 120,
+     "file_name": "уходя - улыбайся.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIIjWg58Vv35idYaqR5VX5TZ7IX5CUuAAJrdAAC0iTRScRMhnc41QjDNgQ",
+     "file_unique_id": "AgADa3QAAtIk0Uk",
+     "file_size": 4802407
+    }
+   ]
+  },
+  {
+   "name": "Winter Death",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 148,
+     "file_name": "1 New Year.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "New Year",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIuWg6En26V9uHxQq1-ry6eAHHq9aLAAJ3dgAC0iTRSVlJPVGh1XD0NgQ",
+     "file_unique_id": "AgADd3YAAtIk0Uk",
+     "file_size": 5958001
+    },
+    {
+     "duration": 204,
+     "file_name": "I'M DYING.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "I'M DYING",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIumg6En0BCqP-Msjvea71WjPGkNPuAAJ4dgAC0iTRSS79UGARXrZ3NgQ",
+     "file_unique_id": "AgADeHYAAtIk0Uk",
+     "file_size": 8167960
+    },
+    {
+     "duration": 170,
+     "file_name": "PUNISHMENT.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "PUNISHMENT",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIu2g6En3xbeuUpI_rKpthijNX94qmAAJ5dgAC0iTRScCti2gEz2TWNgQ",
+     "file_unique_id": "AgADeXYAAtIk0Uk",
+     "file_size": 6832581
+    },
+    {
+     "duration": 180,
+     "file_name": "SEE MYSELF + BE MYSELF.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "SEE MYSELF + BE MYSELF",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIvGg6En3vCDTPTLLNeUQAATEbMsPIPQACenYAAtIk0UnHm5x9B5i5ejYE",
+     "file_unique_id": "AgADenYAAtIk0Uk",
+     "file_size": 7205609
+    },
+    {
+     "duration": 179,
+     "file_name": "THE DARK SIDE OF WORLD.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "THE DARK SIDE OF WORLD",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIvWg6En1e_VN43fMBfM99sp5Ic-zxAAJ7dgAC0iTRSScZkEr4q_87NgQ",
+     "file_unique_id": "AgADe3YAAtIk0Uk",
+     "file_size": 7176352
+    },
+    {
+     "duration": 156,
+     "file_name": "THORNS.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "THORNS",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIvmg6En25pYNaxuBBZCibG7YyCDrPAAJ8dgAC0iTRSeLqmz28ulNtNgQ",
+     "file_unique_id": "AgADfHYAAtIk0Uk",
+     "file_size": 6248483
+    },
+    {
+     "duration": 144,
+     "file_name": "WE LIVE TO DIE.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "WE LIVE TO DIE",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIv2g6En3cZ9Ddx15qpnfVncem0ClcAAJ9dgAC0iTRSdSkORr-4dCJNgQ",
+     "file_unique_id": "AgADfXYAAtIk0Uk",
+     "file_size": 5773054
+    },
+    {
+     "duration": 173,
+     "file_name": "Привичка.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Привичка",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIwGg6En3-zcpxYB6a4qPuxrVpK7-sAAJ-dgAC0iTRSWNHxoPTAe3pNgQ",
+     "file_unique_id": "AgADfnYAAtIk0Uk",
+     "file_size": 6947520
+    },
+    {
+     "duration": 168,
+     "file_name": "Через що я можу заплакати.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Через що я можу заплакати",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAIIwWg6En3ZWX1grsgDvKSlRujO6ny9AAJ_dgAC0iTRSdq6Jnu8NYgjNgQ",
+     "file_unique_id": "AgADf3YAAtIk0Uk",
+     "file_size": 6730181
+    }
+   ]
+  },
+  {
+   "name": "Winter Solutions",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 156,
+     "file_name": "A little cloud.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII02g6ErV2ebJpo4Mj34cJ938XF_7pAAKCdgAC0iTRSRihJv98Uj5QNgQ",
+     "file_unique_id": "AgADgnYAAtIk0Uk",
+     "file_size": 6268412
+    },
+    {
+     "duration": 207,
+     "file_name": "Childhood.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII1Gg6ErVo85b5NP2ciFi4TgnHOvhQAAKDdgAC0iTRSQUCUPZ1Y_fPNgQ",
+     "file_unique_id": "AgADg3YAAtIk0Uk",
+     "file_size": 8281931
+    },
+    {
+     "duration": 122,
+     "file_name": "cold.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII1Wg6ErVt06YbYLGP6bTa5xYzjbtnAAKEdgAC0iTRSVOuDAfnxofVNgQ",
+     "file_unique_id": "AgADhHYAAtIk0Uk",
+     "file_size": 4913180
+    },
+    {
+     "duration": 144,
+     "file_name": "cry of the universe.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII1mg6ErUdB2nE1nmVmIX-6EU78l-mAAKFdgAC0iTRSSbWme85rRZ-NgQ",
+     "file_unique_id": "AgADhXYAAtIk0Uk",
+     "file_size": 5766861
+    },
+    {
+     "duration": 182,
+     "file_name": "Dew.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII12g6ErXDMiss-yHZVICYyOIpe14LAAKGdgAC0iTRSQ5Qf2jnMgABXTYE",
+     "file_unique_id": "AgADhnYAAtIk0Uk",
+     "file_size": 7300772
+    },
+    {
+     "duration": 169,
+     "file_name": "Escape.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII2Gg6ErVFVCgAASza2REfc_HMjIIjjAACh3YAAtIk0Uk4LR-yTadjIzYE",
+     "file_unique_id": "AgADh3YAAtIk0Uk",
+     "file_size": 6789817
+    },
+    {
+     "duration": 120,
+     "file_name": "horizon.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII2Wg6ErVGRhYX8ICTAALKBANAlt2RAAKIdgAC0iTRSeyKdjYEI3NuNgQ",
+     "file_unique_id": "AgADiHYAAtIk0Uk",
+     "file_size": 4802421
+    },
+    {
+     "duration": 163,
+     "file_name": "Infinity's End.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII2mg6ErXuPFNsbv7PuiBHtcfMkDobAAKJdgAC0iTRScuAIg3LgEowNgQ",
+     "file_unique_id": "AgADiXYAAtIk0Uk",
+     "file_size": 6532758
+    },
+    {
+     "duration": 122,
+     "file_name": "Mask.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII22g6ErXR90QQBWG4YF08xWt_Sdo3AAKKdgAC0iTRSenlOkGqH0jjNgQ",
+     "file_unique_id": "AgADinYAAtIk0Uk",
+     "file_size": 4881833
+    },
+    {
+     "duration": 226,
+     "file_name": "Mental.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII3Gg6ErWSCgpTlDXn_hXeokEAAc8PtAACi3YAAtIk0UlLUJOnRVefwDYE",
+     "file_unique_id": "AgADi3YAAtIk0Uk",
+     "file_size": 9041558
+    },
+    {
+     "duration": 133,
+     "file_name": "Reaper.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII3Wg6EriWzp2RXXrzC5xlyOiNfHPZAAKMdgAC0iTRST7J0764TpS8NgQ",
+     "file_unique_id": "AgADjHYAAtIk0Uk",
+     "file_size": 5322780
+    },
+    {
+     "duration": 126,
+     "file_name": "runner.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII3mg6ErixJTpq9NnuznD7iXuR2x7UAAJQdQACcZrRSfpklfKcleMuNgQ",
+     "file_unique_id": "AgADUHUAAnGa0Uk",
+     "file_size": 5047972
+    },
+    {
+     "duration": 155,
+     "file_name": "Save me.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII32g6ErgLixpxhnzpGsYYNFkCK889AAKNdgAC0iTRSVcQk59lbTklNgQ",
+     "file_unique_id": "AgADjXYAAtIk0Uk",
+     "file_size": 6204674
+    },
+    {
+     "duration": 233,
+     "file_name": "Sunset.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII4Gg6ErhDPh2u8awvlnHSVrne-8inAAKOdgAC0iTRSTVMaE7UqRWwNgQ",
+     "file_unique_id": "AgADjnYAAtIk0Uk",
+     "file_size": 9353996
+    },
+    {
+     "duration": 196,
+     "file_name": "Surrounded by fears.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII4Wg6Erh6AT2K7kQUkX2cDq6PhqgLAAJRdQACcZrRSWKJMHdWzmc4NgQ",
+     "file_unique_id": "AgADUXUAAnGa0Uk",
+     "file_size": 7845149
+    },
+    {
+     "duration": 215,
+     "file_name": "Tundra.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII4mg6Eri5TjiwavyPFcyn1p73MYIlAAKPdgAC0iTRSeyhvOn2L1RWNgQ",
+     "file_unique_id": "AgADj3YAAtIk0Uk",
+     "file_size": 8600611
+    },
+    {
+     "duration": 114,
+     "file_name": "Warrior.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII42g6ErjRQlvclh4FsOvYhoO84mhLAAKQdgAC0iTRSTmLWesfdwwdNgQ",
+     "file_unique_id": "AgADkHYAAtIk0Uk",
+     "file_size": 4588217
+    },
+    {
+     "duration": 169,
+     "file_name": "Watching the stars.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII5Gg6EriuM89fV3z28O6T7NZZxYFYAAKRdgAC0iTRSUOnamQ6xYgoNgQ",
+     "file_unique_id": "AgADkXYAAtIk0Uk",
+     "file_size": 6781457
+    },
+    {
+     "duration": 168,
+     "file_name": "Went Away.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAII5Wg6EriB4bauEPSLP0M23dwZZmAIAAKSdgAC0iTRScGc6PGgVqGtNgQ",
+     "file_unique_id": "AgADknYAAtIk0Uk",
+     "file_size": 6721898
+    }
+   ]
+  },
+  {
+   "name": "МОРОСИТЬ",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 219,
+     "file_name": "6 million ways to die.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJFGg6EzKgP9Weoeof17XKexWyd5diAAKfdgAC0iTRSUwsyFPWLakWNgQ",
+     "file_unique_id": "AgADn3YAAtIk0Uk",
+     "file_size": 8779288
+    },
+    {
+     "duration": 192,
+     "file_name": "butterfly.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJFWg6EzKUuN-H-B8nJPhVP48B0lyQAAKgdgAC0iTRSXKP2lqLYQfgNgQ",
+     "file_unique_id": "AgADoHYAAtIk0Uk",
+     "file_size": 7682145
+    },
+    {
+     "duration": 157,
+     "file_name": "ВОГНИЩЕ.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJFmg6EzK3sy_phEVnO3OvSh8RPW_xAAKhdgAC0iTRSQSFunxei9KqNgQ",
+     "file_unique_id": "AgADoXYAAtIk0Uk",
+     "file_size": 6310194
+    },
+    {
+     "duration": 216,
+     "file_name": "Діра.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJF2g6EzI3mqbxw7xa8usJKCN9puXZAAKidgAC0iTRSUwhHHBc4MSrNgQ",
+     "file_unique_id": "AgADonYAAtIk0Uk",
+     "file_size": 8642407
+    },
+    {
+     "duration": 153,
+     "file_name": "КАПЛІ.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJGGg6EzLU4B9IXX9Jkt89-R5Q0qn3AAKjdgAC0iTRSQtUZCTTzahaNgQ",
+     "file_unique_id": "AgADo3YAAtIk0Uk",
+     "file_size": 6152415
+    },
+    {
+     "duration": 182,
+     "file_name": "МНЕ ТАК ТЯЖЕЛО.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJGWg6EzIjeRv9U0qPCNGPYU1hhSQ_AAKkdgAC0iTRSaWpnkyqqepjNgQ",
+     "file_unique_id": "AgADpHYAAtIk0Uk",
+     "file_size": 7291341
+    },
+    {
+     "duration": 247,
+     "file_name": "Мрія.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJGmg6EzJbaYBawfBAKgp5jAwOsJ-_AAKmdgAC0iTRSZ3gHM0MejrXNgQ",
+     "file_unique_id": "AgADpnYAAtIk0Uk",
+     "file_size": 9901509
+    },
+    {
+     "duration": 202,
+     "file_name": "самогубство.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJG2g6EzI0lslicFtTrdmNGdiuzofoAAKndgAC0iTRSTSuWfWwpe3YNgQ",
+     "file_unique_id": "AgADp3YAAtIk0Uk",
+     "file_size": 8108464
+    },
+    {
+     "duration": 245,
+     "file_name": "СЕНС.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJHGg6EzKN_QYhJLgVMewYL9fOdnfPAAKodgAC0iTRSSJdycju0215NgQ",
+     "file_unique_id": "AgADqHYAAtIk0Uk",
+     "file_size": 9812692
+    },
+    {
+     "duration": 192,
+     "file_name": "стану кращим.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJHWg6EzKlcJpqim_xCom4Hb3Rmu7UAAKpdgAC0iTRSWQEEXaNkRYINgQ",
+     "file_unique_id": "AgADqXYAAtIk0Uk",
+     "file_size": 7689447
+    },
+    {
+     "duration": 204,
+     "file_name": "Твої Очі.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJHmg6EzNFEcB-elUQzD15ynwtsjekAAKqdgAC0iTRSXdHNRJvrUU2NgQ",
+     "file_unique_id": "AgADqnYAAtIk0Uk",
+     "file_size": 8196223
+    },
+    {
+     "duration": 145,
+     "file_name": "ШМАТКИ.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJH2g6EzOQD8tKGoRT2gzFdosEZCpkAAKrdgAC0iTRSQXz18nfDEV_NgQ",
+     "file_unique_id": "AgADq3YAAtIk0Uk",
+     "file_size": 5819079
+    }
+   ]
+  },
+  {
+   "name": "GAP",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 87,
+     "file_name": "blood rain.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJOWg6E2dOJdpn_oOjREmG44S6WkilAAKtdgAC0iTRSVrtE5UGQGGANgQ",
+     "file_unique_id": "AgADrXYAAtIk0Uk",
+     "file_size": 3508837
+    },
+    {
+     "duration": 138,
+     "file_name": "circus.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJOmg6E2c7YGf--x93los25Jw-Ci2aAAKudgAC0iTRSWdafOgZl0ASNgQ",
+     "file_unique_id": "AgADrnYAAtIk0Uk",
+     "file_size": 5535939
+    },
+    {
+     "duration": 100,
+     "file_name": "darkness settles in.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJO2g6E2d_-gPJidlHdOVHKztibw5uAAKvdgAC0iTRSeakcU1vU9dxNgQ",
+     "file_unique_id": "AgADr3YAAtIk0Uk",
+     "file_size": 2418799
+    },
+    {
+     "duration": 152,
+     "file_name": "FEAR.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJPGg6E2f8vuL4Dec-yWPX2zB3rp_eAAKwdgAC0iTRSfkL8OArUv4aNgQ",
+     "file_unique_id": "AgADsHYAAtIk0Uk",
+     "file_size": 6082421
+    },
+    {
+     "duration": 169,
+     "file_name": "get back.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJPWg6E2fIP154oVBzB1UF5VIAAbICfAACsXYAAtIk0UmEuDZnUdEhHDYE",
+     "file_unique_id": "AgADsXYAAtIk0Uk",
+     "file_size": 6781457
+    },
+    {
+     "duration": 106,
+     "file_name": "infection.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJPmg6E2dwrEB1e8KEHT1_GWv0DLoYAAKydgAC0iTRSUDwtyQPRVsvNgQ",
+     "file_unique_id": "AgADsnYAAtIk0Uk",
+     "file_size": 4255939
+    },
+    {
+     "duration": 125,
+     "file_name": "lost souls.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJP2g6E2eM6qL9_ClLaBc_ddd5J-AwAAKzdgAC0iTRSW9_FpFpjVO-NgQ",
+     "file_unique_id": "AgADs3YAAtIk0Uk",
+     "file_size": 5026029
+    },
+    {
+     "duration": 182,
+     "file_name": "opened doors.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJQGg6E2cWfYbzIcuKLAwryc5Rb1lxAAK0dgAC0iTRSX0HfDLFciGWNgQ",
+     "file_unique_id": "AgADtHYAAtIk0Uk",
+     "file_size": 7297637
+    },
+    {
+     "duration": 172,
+     "file_name": "You are not real.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJQWg6E2e5Uiwt7ThceOijtxUodsC9AAK1dgAC0iTRSUUazPelsA7oNgQ",
+     "file_unique_id": "AgADtXYAAtIk0Uk",
+     "file_size": 6916249
+    },
+    {
+     "duration": 160,
+     "file_name": "you are virus.mp3",
+     "mime_type": "audio/mpeg",
+     "file_id": "CQACAgIAAxkBAAIJQmg6E2cmofzT3zOyaKysyf7sZ_SoAAK2dgAC0iTRSfYjT56D6i6ENgQ",
+     "file_unique_id": "AgADtnYAAtIk0Uk",
+     "file_size": 6402159
+    }
+   ]
+  },
+  {
+   "name": "UEBAN",
+   "type": "album",
+   "tracks": [
+    {
+     "duration": 136,
+     "file_name": "1 THE WORST FEELING.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "THE WORST FEELING",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILa2g63c0kx2sCZkg0HGSzxJu8oS2eAAIabQAC0iTZScIxvZkBWaM_NgQ",
+     "file_unique_id": "AgADGm0AAtIk2Uk",
+     "file_size": 5465854
+    },
+    {
+     "duration": 106,
+     "file_name": "2 MENI POHUI.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "MENI POHUI",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILbGg63c2RjGTMznildEL9-7CQ7A8rAAIbbQAC0iTZSVkOM9uXU_bXNgQ",
+     "file_unique_id": "AgADG20AAtIk2Uk",
+     "file_size": 4265266
+    },
+    {
+     "duration": 85,
+     "file_name": "3 YA TEBE ZRUINUYU.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "YA TEBE ZRUINUYU",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILbWg63c1FFvTNfun4QrhHUgFtWgt7AAIcbQAC0iTZSTQ4bV-Vb2JaNgQ",
+     "file_unique_id": "AgADHG0AAtIk2Uk",
+     "file_size": 3422034
+    },
+    {
+     "duration": 96,
+     "file_name": "4 0 ARGUMENTS.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "0 ARGUMENTS",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILbmg63c1HEF50mDHNfICMSGGA8Y9_AAKkbgACGs_ZScIGKdn083snNgQ",
+     "file_unique_id": "AgADpG4AAhrP2Uk",
+     "file_size": 3849397
+    },
+    {
+     "duration": 140,
+     "file_name": "5 ego.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "ego",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILb2g63c3CDwsmPyZeUttmcrNPTlwiAAIdbQAC0iTZSd-lZQnS8PcHNgQ",
+     "file_unique_id": "AgADHW0AAtIk2Uk",
+     "file_size": 5628858
+    },
+    {
+     "duration": 129,
+     "file_name": "6 sell your brother.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "sell your brother",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILcGg63c1i2NBmk8_wAbmevTlZYUovAAIebQAC0iTZSeATa5YlLkjsNgQ",
+     "file_unique_id": "AgADHm0AAtIk2Uk",
+     "file_size": 5181642
+    },
+    {
+     "duration": 81,
+     "file_name": "7 sch00lsh00tin.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "sch00lsh00tin",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILcWg63c0HfMxctmRXIQJri5aV1yXkAAKlbgACGs_ZSa5LhN_xW1HyNgQ",
+     "file_unique_id": "AgADpW4AAhrP2Uk",
+     "file_size": 3257985
+    },
+    {
+     "duration": 107,
+     "file_name": "8 void.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "void",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILcmg63c3arRBQfLOcllb7tSLZ1FCTAAIfbQAC0iTZSZ3QhECedU0MNgQ",
+     "file_unique_id": "AgADH20AAtIk2Uk",
+     "file_size": 4289299
+    },
+    {
+     "duration": 151,
+     "file_name": "9 Edward Mordrake.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "Edward Mordrake",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILc2g63c1Srvr4uxGyGeggV0Q7G5vYAAIgbQAC0iTZSXcyRWOoipotNgQ",
+     "file_unique_id": "AgADIG0AAtIk2Uk",
+     "file_size": 6060401
+    },
+    {
+     "duration": 102,
+     "file_name": "10 schizophrenia.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "schizophrenia",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILdGg63c0v-nvCXnWwEF5dMcERkGZ7AAIhbQAC0iTZSWAtcQmPloFONgQ",
+     "file_unique_id": "AgADIW0AAtIk2Uk",
+     "file_size": 4110622
+    },
+    {
+     "duration": 98,
+     "file_name": "11 VOICES.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "VOICES",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILdWg63c1vddmafyOGEplswvzalLIcAAIibQAC0iTZSeQkJ0aWFEgINgQ",
+     "file_unique_id": "AgADIm0AAtIk2Uk",
+     "file_size": 3955977
+    },
+    {
+     "duration": 102,
+     "file_name": "12 dark side.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "dark side",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILdmg63c2KqNtMz912H2AM5Issbn0iAAIjbQAC0iTZSQ_J3dRNbB2KNgQ",
+     "file_unique_id": "AgADI20AAtIk2Uk",
+     "file_size": 4086589
+    },
+    {
+     "duration": 148,
+     "file_name": "13 GONNA CRASH.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "GONNA CRASH",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILd2g63c0jzcByqi74lYuVKk44h0V-AAIkbQAC0iTZSQc-tLWmCBVUNgQ",
+     "file_unique_id": "AgADJG0AAtIk2Uk",
+     "file_size": 5949642
+    },
+    {
+     "duration": 148,
+     "file_name": "15 ya ne mozhu.mp3",
+     "mime_type": "audio/mpeg",
+     "title": "ya ne mozhu",
+     "performer": "Blood Mask",
+     "file_id": "CQACAgIAAxkBAAILeGg63c0zf4g5H5bxglVe1xE-5O8nAAIlbQAC0iTZSW5r4KkJVe3eNgQ",
+     "file_unique_id": "AgADJW0AAtIk2Uk",
+     "file_size": 5953822
+    }
+   ]
+  }
+ ],
+ "singles": [
+  {
+   "name": "Ain't doing shit",
+   "type": "single",
+   "track": {
+    "duration": 128,
+    "file_name": "Ain't doing shit.mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILAmg62ZypW-YtYL8yh7pnvBt6Q5eRAALbbAAC0iTZSbsbHjMa1t2pNgQ",
+    "file_unique_id": "AgAD22wAAtIk2Uk",
+    "file_size": 5131549
+   }
+  },
+  {
+   "name": "BANK ROBBERS (with TOXIETY)",
+   "type": "single",
+   "track": {
+    "duration": 98,
+    "file_name": "BANK ROBBERS (with TOXIETY).mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILC2g62fSfsueqVm4tXMQy2b5j21e4AALibAAC0iTZSXRHv6tQ-KBSNgQ",
+    "file_unique_id": "AgAD4mwAAtIk2Uk",
+    "file_size": 3928872
+   }
+  },
+  {
+   "name": "Blood Knight",
+   "type": "single",
+   "track": {
+    "duration": 261,
+    "file_name": "Blood Knight.mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILEGg62hHjpKDj0Mqaevez7mn5tYpsAALlbAAC0iTZSaNkUrEP2btwNgQ",
+    "file_unique_id": "AgAD5WwAAtIk2Uk",
+    "file_size": 4177128
+   }
+  },
+  {
+   "name": "Bully",
+   "type": "single",
+   "track": {
+    "duration": 123,
+    "file_name": "Bully.mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILFWg62jFRl19gnPonL_K8aD_wR8NlAALobAAC0iTZSTDQzlfZF-wcNgQ",
+    "file_unique_id": "AgAD6GwAAtIk2Uk",
+    "file_size": 4921525
+   }
+  },
+  {
+   "name": "Cold Vibes (with PAnamilor)",
+   "type": "single",
+   "track": {
+    "duration": 140,
+    "file_name": "Cold Vibes (with PAnamilor).mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILGmg62lN0bgqreWE5Irv2yV_7pfkyAALtbAAC0iTZSYihm6Vpue0iNgQ",
+    "file_unique_id": "AgAD7WwAAtIk2Uk",
+    "file_size": 5619505
+   }
+  },
+  {
+   "name": "Crushed Hawk (with PAnamilor)",
+   "type": "single",
+   "track": {
+    "duration": 126,
+    "file_name": "Crushed Hawk (with PAnamilor).mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILH2g62onpNgYtVFJ9omIvmzGkBi_LAALxbAAC0iTZSZEF5Ibv56SwNgQ",
+    "file_unique_id": "AgAD8WwAAtIk2Uk",
+    "file_size": 3046978
+   }
+  },
+  {
+   "name": "DVA ROKY TOMU",
+   "type": "single",
+   "track": {
+    "duration": 160,
+    "file_name": "DVA ROKY TOMU.mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILJGg62qZZrMSvH1JJt6coZ0_bOFm3AAL1bAAC0iTZSds10CupFtR8NgQ",
+    "file_unique_id": "AgAD9WwAAtIk2Uk",
+    "file_size": 6411549
+   }
+  },
+  {
+   "name": "KICK BACK",
+   "type": "single",
+   "track": {
+    "duration": 132,
+    "file_name": "KICK BACK.mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILKWg62r4Nph8aVDHuRBSSoGmferN2AAL2bAAC0iTZSeaFIKGg5GUONgQ",
+    "file_unique_id": "AgAD9mwAAtIk2Uk",
+    "file_size": 5289329
+   }
+  },
+  {
+   "name": "Вернись",
+   "type": "single",
+   "track": {
+    "duration": 170,
+    "file_name": "Вернись.mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILLmg62tdvAQ4d962Z_wnd9R0GD_CqAAL3bAAC0iTZSd1ilxTfKZrZNgQ",
+    "file_unique_id": "AgAD92wAAtIk2Uk",
+    "file_size": 6828464
+   }
+  },
+  {
+   "name": "ЗАГІН",
+   "type": "single",
+   "track": {
+    "duration": 188,
+    "file_name": "ЗАГІН.mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILM2g62u5r9vr2vU3mi47bjmy0qMKmAAL5bAAC0iTZSXCG1tUUzrQPNgQ",
+    "file_unique_id": "AgAD-WwAAtIk2Uk",
+    "file_size": 7553623
+   }
+  },
+  {
+   "name": "Там, де є світло",
+   "type": "single",
+   "track": {
+    "duration": 178,
+    "file_name": "Там, де є світло.mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILOGg62wbrU_ACalChsFC0URICC25vAAL6bAAC0iTZSdrh3zyNZRmsNgQ",
+    "file_unique_id": "AgAD-mwAAtIk2Uk",
+    "file_size": 7149247
+   }
+  },
+  {
+   "name": "Я ТУТ",
+   "type": "single",
+   "track": {
+    "duration": 170,
+    "file_name": "Я ТУТ.mp3",
+    "mime_type": "audio/mpeg",
+    "file_id": "CQACAgIAAxkBAAILPWg62xrT9P80Xt45TuAqZRJWX_21AAL7bAAC0iTZSRGXhxyT5aBJNgQ",
+    "file_unique_id": "AgAD-2wAAtIk2Uk",
+    "file_size": 6837868
+   }
+  }
+ ]
+}

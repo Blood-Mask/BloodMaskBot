@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pm2": "^6.0.6",
+    "telegraf": "^4.16.3"
+  }
+}

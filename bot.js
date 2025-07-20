@@ -48,7 +48,7 @@ bot.action('singles', (ctx) => {
             isSending = false
         })
     }
-    ctx.reply('Ось всі сингли:', Markup.inlineKeyboard(answer))
+    ctx.reply('Here are all of the singles:', Markup.inlineKeyboard(answer))
 })
 bot.action('mainmenu', (ctx) => {
     ctx.answerCbQuery()

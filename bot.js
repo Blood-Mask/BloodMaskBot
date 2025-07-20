@@ -12,31 +12,31 @@ let loading
 
 // USER UI
 bot.start((ctx) => {
-    ctx.reply('Вас вітає бот Блуд Маски. Які побажання на сьогодні? :)', Markup.inlineKeyboard([
-        [Markup.button.callback('Пошук альбомів', 'albums')],
-        [Markup.button.callback('Пошук синглів', 'singles')]
+    ctx.reply('Hi, what can I do for you? :)', Markup.inlineKeyboard([
+        [Markup.button.callback('Search albums', 'albums')],
+        [Markup.button.callback('Search singles', 'singles')]
     ]))
 })
 bot.action('albums', (ctx) => {
     ctx.answerCbQuery()
-    let answer = [[Markup.button.callback("Головне меню", `mainmenu`)]]
+    let answer = [[Markup.button.callback("Main menu", `mainmenu`)]]
     for(let i = 0; i < db.albums.length; i++){
         let album = db.albums[i]
         answer.push([Markup.button.callback(album.name, album.name)])
         bot.action(album.name, async (ctx) => {
             ctx.answerCbQuery()
-            ctx.reply(`Завантажую альбом <b>${album.name}</b>`, {parse_mode:"HTML"})
+            ctx.reply(`Loading album <b>${album.name}</b>`, {parse_mode:"HTML"})
             for (const track of album.tracks) {
               await ctx.sendAudio(track.file_id)
               await sleep(200)
             }
         })
     }
-    ctx.reply('Ось всі альбоми:', Markup.inlineKeyboard(answer))
+    ctx.reply('Here are all of the albums:', Markup.inlineKeyboard(answer))
 })
 bot.action('singles', (ctx) => {
     ctx.answerCbQuery()
-    let answer = [[Markup.button.callback("Головне меню", `mainmenu`)]]
+    let answer = [[Markup.button.callback("Main menu", `mainmenu`)]]
     for(let i = 0; i < db.singles.length; i++){
         let single = db.singles[i]
         answer.push([Markup.button.callback(single.name, single.name)])
@@ -52,15 +52,15 @@ bot.action('singles', (ctx) => {
 })
 bot.action('mainmenu', (ctx) => {
     ctx.answerCbQuery()
-    ctx.reply('Які побажання на сьогодні? :)', Markup.inlineKeyboard([
-        [Markup.button.callback('Пошук альбомів', 'albums')],
-        [Markup.button.callback('Пошук синглів', 'singles')]
+    ctx.reply('What can I do for you?  :)', Markup.inlineKeyboard([
+        [Markup.button.callback('Search albums', 'albums')],
+        [Markup.button.callback('Search singles', 'singles')]
     ]))
 })
 bot.command('main_menu', (ctx) => {
-    ctx.reply('Які побажання на сьогодні? :)', Markup.inlineKeyboard([
-        [Markup.button.callback('Пошук альбомів', 'albums')],
-        [Markup.button.callback('Пошук синглів', 'singles')]
+    ctx.reply('What can I do for you? :)', Markup.inlineKeyboard([
+        [Markup.button.callback('Search albums', 'albums')],
+        [Markup.button.callback('Search singles', 'singles')]
     ]))
 })
 
